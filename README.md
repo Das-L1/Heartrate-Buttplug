@@ -22,7 +22,7 @@ A Node.js system that connects heart rate monitoring from OBS to vibrator contro
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/hr-a.git
+git clone https://github.com/Das-L1/Heartrate-Buttplug.git
 cd hr-a
 npm install
 ```
@@ -65,12 +65,6 @@ npm start
 3. Set OBS WebSocket URL in app to `ws://your-pc-ip:4456`  
 4. Start broadcasting HR data  
 
-### OBS Configuration
-
-1. Add a new **Browser Source**  
-2. URL: `ws://your-pc-ip:4456` (replace with your PC's IP address)  
-3. Set resolution to 1920x1080  
-4. Disable all checkboxes except **"Refresh browser when scene becomes active"**
 
 ## 🛠 Troubleshooting
 
