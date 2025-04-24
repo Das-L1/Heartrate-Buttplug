@@ -18,7 +18,6 @@ A Node.js system that connects heart rate monitoring from OBS to vibrator contro
 1. [Node.js v18+](https://nodejs.org/)
 2. [Intiface Central](https://intiface.com/central/) (v2.3.0+)
 3. [HeartRateOnStream for OBS](https://play.google.com/store/apps/details?id=com.pezcraft.myapplication)
-4. OBS Studio (v29+ recommended)
 
 ## 📦 Installation
 
