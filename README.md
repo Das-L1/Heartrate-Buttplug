@@ -1,6 +1,5 @@
-Sure! Here's your properly formatted `README.md` file with corrected Markdown syntax:
-
 ```markdown
+https://discord.gg/gwnvrSYtjp Check out our Discord Server
 # ❤️ Heart Rate-Actuated Vibrator Control System
 
 A Node.js system that connects heart rate monitoring from OBS to vibrator control via the Buttplug protocol. Automatically adjusts vibration intensity based on real-time heart rate data, with a web UI for manual control and monitoring.
